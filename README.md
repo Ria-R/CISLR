@@ -5,6 +5,10 @@ The Paper on this work is published [here](https://link.springer.com/chapter/10.
 
 Please do cite it if you find this project useful. :)
 
+## To-do:
+- Test on single videos, modify if need be
+- Test on CISLR dataset
+
 **UPDATE:**
 
 - Cleaner and understandable code.
